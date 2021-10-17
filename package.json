@@ -1,0 +1,24 @@
+{
+  "name": "my-portfolio-page",
+  "version": "1.0.0",
+  "description": "my personal web page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iliaShamakhia/my-portfolio-page.git"
+  },
+  "author": "ilia shamakhia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iliaShamakhia/my-portfolio-page/issues"
+  },
+  "homepage": "https://github.com/iliaShamakhia/my-portfolio-page#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
